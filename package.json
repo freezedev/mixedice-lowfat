@@ -1,0 +1,39 @@
+{
+  "name": "mixedice-lowfat",
+  "description": "Micro mixin library",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-coffeelint": "0.0.8",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-mocha": "~0.4.7",
+    "grunt-mocha-test": "~0.8.1",
+    "chai": "*",
+    "matchdep": "~0.3.0"
+  },
+  "dependencies": {
+    "udefine": "~0.8.2"
+  },
+  "main": "dist/mixedice.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freezedev/mixedice-lowfat.git"
+  },
+  "keywords": [
+    "mixin",
+    "resuable",
+    "mixins"
+  ],
+  "author": "Johannes Stein",
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/freezedev/mixedice-lowfat/issues"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "mixedice-lowfat",
+  "version": "0.1.0",
+  "description": "Micro mixin library",
+  "homepage": "https://github.com/freezedev/mixedice-lowfat",
+  "authors": [
+    "Johannes Stein <johannesstein@freeze-dev.com>"
+  ],
+  "main": "dist/mixedice.js",
+  "keywords": [
+    "mixin",
+    "mixins",
+    "reusable",
+    "reuse"
+  ],
+  "license": "UNLICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "udefine",
+    "gruntfile.coffee"
+  ],
+  "dependencies": {
+    "udefine": "~0.8.2"
+  }
+}

@@ -5,3 +5,5 @@ mixedice-lowfat
 [![devDependency Status](https://david-dm.org/freezedev/mixedice-lowfat/dev-status.png)](https://david-dm.org/freezedev/mixedice-lowfat#info=devDependencies)
 
 Micro mixin library
+
+This library allows to mix-in constructor objects.

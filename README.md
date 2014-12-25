@@ -6,4 +6,4 @@ mixedice-lowfat
 
 Micro mixin library
 
-This library allows to mix-in constructor objects. For the usual version, take a look at mixedice.
+This library allows to mix-in constructor objects. For the usual version, take a look at [https://github.com/freezedev/mixedice](mixedice).
